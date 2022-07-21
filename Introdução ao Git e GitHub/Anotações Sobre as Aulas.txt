@@ -1,1 +1,14 @@
-Olá, bom dia.
+# Olá, tudo bem??
+
+Segue abaixo os camandos importantes para a criação de um repositório no GitHub:
+
+git int: para iniciar o repositório na pasta de desejo;
+
+git status: comando de verificação sobre modificação dentro do diretório;
+
+git add .: comando para adicionar documentos;
+
+git commit -m "****": para tornar permanente o arquivo;
+
+git push origin main: para enviar ao repositório;
+
